@@ -1,0 +1,15 @@
+# build output
+/target
+
+# macOS
+.DS_Store
+
+# editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# local scratch output, e.g. `cargo run -- transactions.csv > accounts.csv`
+/accounts.csv
